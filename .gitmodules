@@ -1,0 +1,3 @@
+[submodule "Code/gyolov5"]
+	path = Code/gyolov5
+	url = https://github.com/HarutyunyanMariam/Diploma-TumorDetection.git
